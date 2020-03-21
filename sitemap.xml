@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 	xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84 http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
-<url>
-<priority>1.0</priority>
-<loc>http://longest.domains/index.html</loc>
-<lastmod>2019-09-07</lastmod>
-</url>
-</urlset>
+<?xml version="1.0" encoding="utf-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://longest.domains</loc>
+
+      <priority>1.0</priority>
+
+   </url>
+   
+   </urlset>

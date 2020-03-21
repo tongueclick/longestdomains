@@ -5,4 +5,4 @@ Disallow: /js/
 Disallow: /theme/
 Disallow: 404.html
 
-Sitemap: http://longest.domains/sitemap.xml
+Sitemap: https://longest.domains/sitemap.xml
