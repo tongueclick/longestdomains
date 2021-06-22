@@ -1,8 +1,6 @@
 User-agent: *
 Disallow: /css/
-Disallow: /files/
-Disallow: /js/
-Disallow: /theme/
+Disallow: /images/
 Disallow: 404.html
 
 Sitemap: https://longest.domains/sitemap.xml
