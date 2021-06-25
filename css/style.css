@@ -31,7 +31,8 @@ h4 {
     font-size: 30px;
 }
 h2,
-h4 {
+h4,
+.dot {
 	color: #539e4c;
 }
 .card-body .cr1,
