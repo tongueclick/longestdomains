@@ -239,3 +239,12 @@ p {
 	font-size: 9px;
 }
 }
+@media screen and (max-width: 460px) {
+.card-body .cr1,
+.card-body .cr2 {
+	display: inherit;	
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 8px;
+}
+}
