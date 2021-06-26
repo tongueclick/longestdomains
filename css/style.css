@@ -146,7 +146,6 @@ h4,
 }
 .card-body .cr1,
 .card-body .cr2 {
-	text-align: center;	
 	font-size: 14px;
 }
 }
@@ -166,7 +165,6 @@ h4,
 }
 .card-body .cr1,
 .card-body .cr2 {
-	text-align: center;	
 	font-size: 14px;
 }
 }
@@ -174,7 +172,6 @@ h4,
 .card-body .cr1,
 .card-body .cr2 {
 	display: inline-block;
-	text-align: center;	
 	word-break: keep-all !important;
 	overflow: visible;
 	font-family: 'Raleway', sans-serif;
@@ -186,7 +183,6 @@ h4,
 .card-body .cr1,
 .card-body .cr2 {
 	display: inline-block;
-	text-align: center;	
 	word-break: keep-all !important;
 	overflow: visible;
 	font-family: 'Raleway', sans-serif;
@@ -213,7 +209,6 @@ p {
 .card-body .cr1,
 .card-body .cr2 {
 	display: inline-block;
-	text-align: center;	
 	word-break: keep-all !important;
 	overflow: visible;
 	font-family: 'Raleway', sans-serif;
@@ -240,7 +235,6 @@ p {
 .card-body .cr1,
 .card-body .cr2 {
 	display: inherit;	
-	text-align: center;	
 	font-family: 'Raleway', sans-serif;
 	font-weight: 400;
 	font-size: 9px;
@@ -250,7 +244,6 @@ p {
 .card-body .cr1,
 .card-body .cr2 {
 	display: inherit;
-	text-align: center;	
 	font-family: 'Raleway', sans-serif;
 	font-weight: 400;
 	font-size: 8px;
