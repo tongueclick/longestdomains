@@ -2,11 +2,11 @@
 /* Note: Fluid media requires that you remove the media's height and width attributes from the HTML */
 @font-face {
     font-family: 'sofia pro light';
-    src: url('../../fonts/SofiaProLight-webfont.eot');
-    src: url('../../fonts/SofiaProLight-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../../fonts/SofiaProLight-webfont.woff') format('woff'),
-         url('../../fonts/SofiaProLight-webfont.ttf') format('truetype'),
-         url('../../fonts/SofiaProLight-webfont.svg#sofia pro light') format('svg');
+    src: url('SofiaProLight-webfont.eot');
+    src: url('SofiaProLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SofiaProLight-webfont.woff') format('woff'),
+         url('SofiaProLight-webfont.ttf') format('truetype'),
+         url('SofiaProLight-webfont.svg#sofia pro light') format('svg');
     font-weight: normal;
     font-style: normal;
 }
