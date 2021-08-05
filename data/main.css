@@ -88,6 +88,9 @@ h4 {
 p {
 	font-size: 16px;
 }
+.indent {
+	text-indent: 15px;
+}
 .center {
 	text-align: center;
 }
