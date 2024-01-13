@@ -3,4 +3,4 @@ Disallow: /data/
 Disallow: /images/
 Disallow: 404.html
 
-Sitemap: https://longest.domains/sitemap.xml
+Sitemap: https://longestdomains.com/sitemap.xml
