@@ -64,8 +64,18 @@ img, object, embed, video {
 #LayoutDiv4 a{
 	color: rgba(153,153,153,1);
 }
+.name {
+text-shadow:
+-1px -1px 0 #000,
+1px -1px 0 #000,
+-1px 1px 0 #000,
+1px 1px 0 #000;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
 h1 {
 	font-size: 24px;
+	color: #fed601;
 	margin-bottom: 0px;
 }
 h2 {
